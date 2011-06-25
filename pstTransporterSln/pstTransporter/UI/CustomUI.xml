@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<customUI onLoad="Ribbon_Load" xmlns="http://schemas.microsoft.com/office/2009/07/customui">
+  <contextMenus>
+    <contextMenu idMso="ContextMenuFolder">
+      <button id="MyContextMenuFolder"   
+          label="Clean Up Contacts"
+          insertBeforeMso="NewFolder"
+          imageMso="SadFace"
+          getVisible="ShouldCustomItemBeVisible"  
+          onAction="OnMyButtonClick" />
+    </contextMenu>
+  </contextMenus>
+</customUI>
+
+<!--how to add a tab separator-->
+<!--<menuSeparator id="MySeparator"/>-->
+
+<!--how to hide a built-in menu item like--> 
+      <!--<button idMso="FolderPropertiesContext"
+          enabled="false"
+          visible="false"/>-->

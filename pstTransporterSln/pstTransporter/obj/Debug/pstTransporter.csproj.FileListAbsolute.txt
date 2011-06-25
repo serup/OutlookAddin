@@ -1,0 +1,9 @@
+C:\Users\taherkhe\Documents\Visual Studio 2008\Projects\HobbyProjects\pstTransporterSln\pstTransporter\bin\Debug\pstTransporter.dll
+C:\Users\taherkhe\Documents\Visual Studio 2008\Projects\HobbyProjects\pstTransporterSln\pstTransporter\bin\Debug\pstTransporter.pdb
+C:\Users\taherkhe\Documents\Visual Studio 2008\Projects\HobbyProjects\pstTransporterSln\pstTransporter\bin\Debug\pstTransporter.tlb
+C:\Users\taherkhe\Documents\Visual Studio 2008\Projects\HobbyProjects\pstTransporterSln\pstTransporter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\taherkhe\Documents\Visual Studio 2008\Projects\HobbyProjects\pstTransporterSln\pstTransporter\obj\Debug\pstTransporter.csproj.ResolveComReference.cache
+C:\Users\taherkhe\Documents\Visual Studio 2008\Projects\HobbyProjects\pstTransporterSln\pstTransporter\obj\Debug\pstTransporter.Properties.Resources.resources
+C:\Users\taherkhe\Documents\Visual Studio 2008\Projects\HobbyProjects\pstTransporterSln\pstTransporter\obj\Debug\pstTransporter.csproj.GenerateResource.Cache
+C:\Users\taherkhe\Documents\Visual Studio 2008\Projects\HobbyProjects\pstTransporterSln\pstTransporter\obj\Debug\pstTransporter.dll
+C:\Users\taherkhe\Documents\Visual Studio 2008\Projects\HobbyProjects\pstTransporterSln\pstTransporter\obj\Debug\pstTransporter.pdb
